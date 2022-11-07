@@ -1,0 +1,14 @@
+{
+    "preson":{
+        "firstName":"Kai",
+        "lastName": "Koharazawa"
+    },
+    "work":{
+        "job": "faculity",
+        "program": "Degital Design and Development Diploma"
+    },
+    "study":{
+        "programs": ["Applied Software Development Certiicate", "Computer Systems Certificate", "Computer Systems Doploma"],
+        "department":"School of Computing & Infomation Technology"
+    }
+} 
